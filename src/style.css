@@ -1,0 +1,36 @@
+*{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: black;
+    color: aliceblue;
+}
+.nav ul{
+    display: flex;
+
+}
+.nav ul li {
+
+    text-align: center;
+    
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+   
+}
+img{
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right:auto ;
+    border-radius: 50%;
+}
+h3{
+    text-align: center;
+}
